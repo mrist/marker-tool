@@ -1,0 +1,2546 @@
+[
+  {
+    "reviewerID": "A3FWI03TTRIWDP",
+    "asin": "B003ELYQGG",
+    "reviewerName": "1GoodDog",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "these are super cheap and mostly you get what you pay for. The sound quality is not that good and they\u0027re not as sensitive as some others, but they\u0027re ok for the price.",
+    "overall": 3.0,
+    "summary": "get what you pay for",
+    "unixReviewTime": 1399766400,
+    "reviewTime": "05 11, 2014",
+    "words": {
+      "claims": [
+        {
+          "start": 0,
+          "end": 5,
+          "review": "A3FWI03TTRIWDP",
+          "text": "these",
+          "id": "A3FWI03TTRIWDP-claim-0",
+          "type": "claim"
+        },
+        {
+          "start": 63,
+          "end": 76,
+          "review": "A3FWI03TTRIWDP",
+          "text": "sound quality",
+          "id": "A3FWI03TTRIWDP-claim-1",
+          "type": "claim"
+        },
+        {
+          "start": 98,
+          "end": 102,
+          "review": "A3FWI03TTRIWDP",
+          "text": "they",
+          "id": "A3FWI03TTRIWDP-claim-2",
+          "type": "claim"
+        },
+        {
+          "start": 143,
+          "end": 147,
+          "review": "A3FWI03TTRIWDP",
+          "text": "they",
+          "id": "A3FWI03TTRIWDP-claim-3",
+          "type": "claim"
+        }
+      ],
+      "premises": [
+        {
+          "start": 10,
+          "end": 21,
+          "review": "A3FWI03TTRIWDP",
+          "text": "super cheap",
+          "id": "A3FWI03TTRIWDP-premise-0",
+          "type": "premise"
+        },
+        {
+          "start": 26,
+          "end": 57,
+          "review": "A3FWI03TTRIWDP",
+          "text": "mostly you get what you pay for",
+          "id": "A3FWI03TTRIWDP-premise-1",
+          "type": "premise"
+        },
+        {
+          "start": 77,
+          "end": 93,
+          "review": "A3FWI03TTRIWDP",
+          "text": "is not that good",
+          "id": "A3FWI03TTRIWDP-premise-2",
+          "type": "premise"
+        },
+        {
+          "start": 102,
+          "end": 137,
+          "review": "A3FWI03TTRIWDP",
+          "text": "\u0027re not as sensitive as some others",
+          "id": "A3FWI03TTRIWDP-premise-3",
+          "type": "premise"
+        },
+        {
+          "start": 148,
+          "end": 167,
+          "review": "A3FWI03TTRIWDP",
+          "text": "re ok for the price",
+          "id": "A3FWI03TTRIWDP-premise-4",
+          "type": "premise"
+        }
+      ]
+    },
+    "relations": {
+      "relations": [
+        {
+          "aspectID": "A3FWI03TTRIWDP-claim-0",
+          "statementID": "A3FWI03TTRIWDP-premise-0",
+          "review": "A3FWI03TTRIWDP"
+        },
+        {
+          "aspectID": "A3FWI03TTRIWDP-claim-0",
+          "statementID": "A3FWI03TTRIWDP-premise-1",
+          "review": "A3FWI03TTRIWDP"
+        },
+        {
+          "aspectID": "A3FWI03TTRIWDP-claim-1",
+          "statementID": "A3FWI03TTRIWDP-premise-2",
+          "review": "A3FWI03TTRIWDP"
+        },
+        {
+          "aspectID": "A3FWI03TTRIWDP-claim-2",
+          "statementID": "A3FWI03TTRIWDP-premise-3",
+          "review": "A3FWI03TTRIWDP"
+        },
+        {
+          "aspectID": "A3FWI03TTRIWDP-claim-3",
+          "statementID": "A3FWI03TTRIWDP-premise-4",
+          "review": "A3FWI03TTRIWDP"
+        }
+      ]
+    }
+  },
+  {
+    "reviewerID": "A1L5WUVR2RHCD6",
+    "asin": "B003ELYQGG",
+    "reviewerName": "\u0026#281;\u0026#316;\u0026#261;\u0026#303;\u0026#326;\u0026#281;",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "I hate buying new earphones because they never seem to meet my standards (although to be fair they are really high). These however are excellent. They\u0027re great at noise cancellation; when you have just a small amount of audio playing, you cannot hear your surroundings at all. The sound (particularly bass) is very pronounced to the point that you can almost feel it. Amazing deal.",
+    "overall": 5.0,
+    "summary": "Just fantastic",
+    "unixReviewTime": 1361577600,
+    "reviewTime": "02 23, 2013",
+    "words": {
+      "claims": [
+        {
+          "start": 117,
+          "end": 122,
+          "review": "A1L5WUVR2RHCD6",
+          "text": "These",
+          "id": "A1L5WUVR2RHCD6-claim-1",
+          "type": "claim"
+        },
+        {
+          "start": 146,
+          "end": 150,
+          "review": "A1L5WUVR2RHCD6",
+          "text": "They",
+          "id": "A1L5WUVR2RHCD6-claim-1",
+          "type": "claim"
+        },
+        {
+          "start": 163,
+          "end": 181,
+          "review": "A1L5WUVR2RHCD6",
+          "text": "noise cancellation",
+          "id": "A1L5WUVR2RHCD6-claim-2",
+          "type": "claim"
+        },
+        {
+          "start": 239,
+          "end": 268,
+          "review": "A1L5WUVR2RHCD6",
+          "text": "cannot hear your surroundings",
+          "id": "A1L5WUVR2RHCD6-claim-3",
+          "type": "claim"
+        },
+        {
+          "start": 281,
+          "end": 306,
+          "review": "A1L5WUVR2RHCD6",
+          "text": "sound (particularly bass)",
+          "id": "A1L5WUVR2RHCD6-claim-4",
+          "type": "claim"
+        },
+        {
+          "start": 376,
+          "end": 380,
+          "review": "A1L5WUVR2RHCD6",
+          "text": "deal",
+          "id": "A1L5WUVR2RHCD6-claim-5",
+          "type": "claim"
+        }
+      ],
+      "premises": [
+        {
+          "start": 131,
+          "end": 144,
+          "review": "A1L5WUVR2RHCD6",
+          "text": "are excellent",
+          "id": "A1L5WUVR2RHCD6-premise-1",
+          "type": "premise"
+        },
+        {
+          "start": 154,
+          "end": 181,
+          "review": "A1L5WUVR2RHCD6",
+          "text": "great at noise cancellation",
+          "id": "A1L5WUVR2RHCD6-premise-1",
+          "type": "premise"
+        },
+        {
+          "start": 154,
+          "end": 159,
+          "review": "A1L5WUVR2RHCD6",
+          "text": "great",
+          "id": "A1L5WUVR2RHCD6-premise-2",
+          "type": "premise"
+        },
+        {
+          "start": 183,
+          "end": 233,
+          "review": "A1L5WUVR2RHCD6",
+          "text": "when you have just a small amount of audio playing",
+          "id": "A1L5WUVR2RHCD6-premise-3",
+          "type": "premise"
+        },
+        {
+          "start": 310,
+          "end": 325,
+          "review": "A1L5WUVR2RHCD6",
+          "text": "very pronounced",
+          "id": "A1L5WUVR2RHCD6-premise-4",
+          "type": "premise"
+        },
+        {
+          "start": 310,
+          "end": 366,
+          "review": "A1L5WUVR2RHCD6",
+          "text": "very pronounced to the point that you can almost feel it",
+          "id": "A1L5WUVR2RHCD6-premise-5",
+          "type": "premise"
+        },
+        {
+          "start": 368,
+          "end": 375,
+          "review": "A1L5WUVR2RHCD6",
+          "text": "Amazing",
+          "id": "A1L5WUVR2RHCD6-premise-6",
+          "type": "premise"
+        }
+      ]
+    },
+    "relations": {
+      "relations": [
+        {
+          "aspectID": "A1L5WUVR2RHCD6-claim-1",
+          "statementID": "A1L5WUVR2RHCD6-premise-1",
+          "review": "A1L5WUVR2RHCD6"
+        },
+        {
+          "aspectID": "A1L5WUVR2RHCD6-claim-1",
+          "statementID": "A1L5WUVR2RHCD6-premise-1",
+          "review": "A1L5WUVR2RHCD6"
+        },
+        {
+          "aspectID": "A1L5WUVR2RHCD6-claim-2",
+          "statementID": "A1L5WUVR2RHCD6-premise-2",
+          "review": "A1L5WUVR2RHCD6"
+        },
+        {
+          "aspectID": "A1L5WUVR2RHCD6-claim-2",
+          "statementID": "A1L5WUVR2RHCD6-premise-3",
+          "review": "A1L5WUVR2RHCD6"
+        },
+        {
+          "aspectID": "A1L5WUVR2RHCD6-claim-3",
+          "statementID": "A1L5WUVR2RHCD6-premise-3",
+          "review": "A1L5WUVR2RHCD6"
+        },
+        {
+          "aspectID": "A1L5WUVR2RHCD6-claim-4",
+          "statementID": "A1L5WUVR2RHCD6-premise-4",
+          "review": "A1L5WUVR2RHCD6"
+        },
+        {
+          "aspectID": "A1L5WUVR2RHCD6-claim-4",
+          "statementID": "A1L5WUVR2RHCD6-premise-5",
+          "review": "A1L5WUVR2RHCD6"
+        },
+        {
+          "aspectID": "A1L5WUVR2RHCD6-claim-5",
+          "statementID": "A1L5WUVR2RHCD6-premise-6",
+          "review": "A1L5WUVR2RHCD6"
+        }
+      ]
+    }
+  },
+  {
+    "reviewerID": "A2R0GTGI2NC5P7",
+    "asin": "B003ELYQGG",
+    "reviewerName": "2DayShipping",
+    "helpful": [
+      1,
+      1
+    ],
+    "reviewText": "So I bought these headphones because I read a review of them on cnet.com\u0027s list of low cost headphones that are big hits.  I have to say I am impressed.These have really great sound!  I got these to use in place of some noise canceling headphones I have from Sony as they hurt my head after a while, and these are really great!  They sound very rich, and they are incredibly compact and easy to throw in a bag and take with you.  That being said, I think they could get pretty tangled up easily, so I am careful to not put them anywhere without wrapping them neatly first.  But if that doesn\u0027t bother you, these headphones are an incredible, rumbly bassy bang for your buck.",
+    "overall": 5.0,
+    "summary": "Worth all six hundred pennies",
+    "unixReviewTime": 1352246400,
+    "reviewTime": "11 7, 2012",
+    "words": {
+      "claims": [
+        {
+          "start": 5,
+          "end": 28,
+          "review": "A2R0GTGI2NC5P7",
+          "text": "bought these headphones",
+          "id": "A2R0GTGI2NC5P7-claim-0",
+          "type": "claim"
+        },
+        {
+          "start": 152,
+          "end": 157,
+          "review": "A2R0GTGI2NC5P7",
+          "text": "These",
+          "id": "A2R0GTGI2NC5P7-claim-1",
+          "type": "claim"
+        },
+        {
+          "start": 176,
+          "end": 181,
+          "review": "A2R0GTGI2NC5P7",
+          "text": "sound",
+          "id": "A2R0GTGI2NC5P7-claim-2",
+          "type": "claim"
+        },
+        {
+          "start": 329,
+          "end": 333,
+          "review": "A2R0GTGI2NC5P7",
+          "text": "They",
+          "id": "A2R0GTGI2NC5P7-claim-3",
+          "type": "claim"
+        },
+        {
+          "start": 334,
+          "end": 339,
+          "review": "A2R0GTGI2NC5P7",
+          "text": "sound",
+          "id": "A2R0GTGI2NC5P7-claim-4",
+          "type": "claim"
+        },
+        {
+          "start": 355,
+          "end": 359,
+          "review": "A2R0GTGI2NC5P7",
+          "text": "they",
+          "id": "A2R0GTGI2NC5P7-claim-5",
+          "type": "claim"
+        },
+        {
+          "start": 455,
+          "end": 459,
+          "review": "A2R0GTGI2NC5P7",
+          "text": "they",
+          "id": "A2R0GTGI2NC5P7-claim-6",
+          "type": "claim"
+        },
+        {
+          "start": 606,
+          "end": 622,
+          "review": "A2R0GTGI2NC5P7",
+          "text": "these headphones",
+          "id": "A2R0GTGI2NC5P7-claim-7",
+          "type": "claim"
+        }
+      ],
+      "premises": [
+        {
+          "start": 37,
+          "end": 120,
+          "review": "A2R0GTGI2NC5P7",
+          "text": "I read a review of them on cnet.com\u0027s list of low cost headphones that are big hits",
+          "id": "A2R0GTGI2NC5P7-premise-0",
+          "type": "premise"
+        },
+        {
+          "start": 163,
+          "end": 181,
+          "review": "A2R0GTGI2NC5P7",
+          "text": "really great sound",
+          "id": "A2R0GTGI2NC5P7-premise-1",
+          "type": "premise"
+        },
+        {
+          "start": 163,
+          "end": 175,
+          "review": "A2R0GTGI2NC5P7",
+          "text": "really great",
+          "id": "A2R0GTGI2NC5P7-premise-2",
+          "type": "premise"
+        },
+        {
+          "start": 334,
+          "end": 349,
+          "review": "A2R0GTGI2NC5P7",
+          "text": "sound very rich",
+          "id": "A2R0GTGI2NC5P7-premise-3",
+          "type": "premise"
+        },
+        {
+          "start": 340,
+          "end": 349,
+          "review": "A2R0GTGI2NC5P7",
+          "text": "very rich",
+          "id": "A2R0GTGI2NC5P7-premise-4",
+          "type": "premise"
+        },
+        {
+          "start": 364,
+          "end": 382,
+          "review": "A2R0GTGI2NC5P7",
+          "text": "incredibly compact",
+          "id": "A2R0GTGI2NC5P7-premise-5",
+          "type": "premise"
+        },
+        {
+          "start": 387,
+          "end": 427,
+          "review": "A2R0GTGI2NC5P7",
+          "text": "easy to throw in a bag and take with you",
+          "id": "A2R0GTGI2NC5P7-premise-6",
+          "type": "premise"
+        },
+        {
+          "start": 460,
+          "end": 494,
+          "review": "A2R0GTGI2NC5P7",
+          "text": "could get pretty tangled up easily",
+          "id": "A2R0GTGI2NC5P7-premise-7",
+          "type": "premise"
+        },
+        {
+          "start": 630,
+          "end": 640,
+          "review": "A2R0GTGI2NC5P7",
+          "text": "incredible",
+          "id": "A2R0GTGI2NC5P7-premise-8",
+          "type": "premise"
+        },
+        {
+          "start": 642,
+          "end": 673,
+          "review": "A2R0GTGI2NC5P7",
+          "text": "rumbly bassy bang for your buck",
+          "id": "A2R0GTGI2NC5P7-premise-9",
+          "type": "premise"
+        }
+      ]
+    },
+    "relations": {
+      "relations": [
+        {
+          "aspectID": "A2R0GTGI2NC5P7-claim-0",
+          "statementID": "A2R0GTGI2NC5P7-premise-0",
+          "review": "A2R0GTGI2NC5P7"
+        },
+        {
+          "aspectID": "A2R0GTGI2NC5P7-claim-1",
+          "statementID": "A2R0GTGI2NC5P7-premise-1",
+          "review": "A2R0GTGI2NC5P7"
+        },
+        {
+          "aspectID": "A2R0GTGI2NC5P7-claim-2",
+          "statementID": "A2R0GTGI2NC5P7-premise-2",
+          "review": "A2R0GTGI2NC5P7"
+        },
+        {
+          "aspectID": "A2R0GTGI2NC5P7-claim-3",
+          "statementID": "A2R0GTGI2NC5P7-premise-3",
+          "review": "A2R0GTGI2NC5P7"
+        },
+        {
+          "aspectID": "A2R0GTGI2NC5P7-claim-4",
+          "statementID": "A2R0GTGI2NC5P7-premise-4",
+          "review": "A2R0GTGI2NC5P7"
+        },
+        {
+          "aspectID": "A2R0GTGI2NC5P7-claim-5",
+          "statementID": "A2R0GTGI2NC5P7-premise-5",
+          "review": "A2R0GTGI2NC5P7"
+        },
+        {
+          "aspectID": "A2R0GTGI2NC5P7-claim-5",
+          "statementID": "A2R0GTGI2NC5P7-premise-6",
+          "review": "A2R0GTGI2NC5P7"
+        },
+        {
+          "aspectID": "A2R0GTGI2NC5P7-claim-6",
+          "statementID": "A2R0GTGI2NC5P7-premise-7",
+          "review": "A2R0GTGI2NC5P7"
+        },
+        {
+          "aspectID": "A2R0GTGI2NC5P7-claim-7",
+          "statementID": "A2R0GTGI2NC5P7-premise-8",
+          "review": "A2R0GTGI2NC5P7"
+        },
+        {
+          "aspectID": "A2R0GTGI2NC5P7-claim-7",
+          "statementID": "A2R0GTGI2NC5P7-premise-9",
+          "review": "A2R0GTGI2NC5P7"
+        }
+      ]
+    }
+  },
+  {
+    "reviewerID": "AFT4I4KKUPEQP",
+    "asin": "B003ELYQGG",
+    "reviewerName": "2pacleo",
+    "helpful": [
+      1,
+      2
+    ],
+    "reviewText": "Good product, but for the price and better bad as well as isolation, I\u0027d totally recommend iLuv iEP322BLK City Lights In-Ear Earphones - Ultra Bass. They are better in my opinion. Other than that I\u0027d use this ones as replacements. Good sound",
+    "overall": 3.0,
+    "summary": "Good enough",
+    "unixReviewTime": 1370476800,
+    "reviewTime": "06 6, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "AILMTQNLB90RV",
+    "asin": "B003ELYQGG",
+    "reviewerName": "4lan",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "I used to hate cheap headphone/earbuds because it was pain to wear it. And you know, can\u0027t expect much of sound quality. This product changed everything from that perspective. This is a very comfortable ear headphone.Comfort: 8.5/10Sound: 7/10Bass: 7/10Bass Ambient: 6/10Design: 8/10Material: 6/10",
+    "overall": 5.0,
+    "summary": "Unbelievable good",
+    "unixReviewTime": 1358553600,
+    "reviewTime": "01 19, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A245IZCS68ORGE",
+    "asin": "B003ELYQGG",
+    "reviewerName": "A. Alvarado",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "So,bought one pair and lost it soon enough. Then got a second and found the first pair. Then got the first one stolen and bought a third.  And the second pair was given as a present to an audiphile who had very expensive Sennheiser earbuds. These headphones are not only cheap, but extremely reliable; their sound quality and extent of frequencies is paramount for an item of their price.Only disadvantage:After wearing them for 3 hours the \u0026#34;bud\u0026#34; makes the cartilage on my ear a bit soared.",
+    "overall": 5.0,
+    "summary": "Great,",
+    "unixReviewTime": 1393891200,
+    "reviewTime": "03 4, 2014",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "AM4VDD7C2EZNC",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Aaron J. Kepler \"ackepler\"",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "I bought two pair for my kids.  They both think they are comfortable and sound good, but my son has complained that the insulation on the wires is maybe not thick enough.  He says when the wire rubs against his clothes, it somehow transmits sound associated with that rubbing into the headphones.  I don\u0027t know if it\u0027s the static generated by the plastic rubbing against his close or the actual sound of the two materials rubbing together but he sometimes finds it distracting enough that he mentioned it to me.  Otherwise they like them and I think they are a good value for the money even with the previously mentioned flaw.",
+    "overall": 4.0,
+    "summary": "Sounds good with one caveat.",
+    "unixReviewTime": 1397606400,
+    "reviewTime": "04 16, 2014",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A38DKRR4AITNS5",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Aaron Osmer",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "The dog chewed up a pair of my headphones, so I was looking to replace them. I have previously ordered headphones from another 3rd party seller, but saw that these were a good price and available on Prime. I needed something quick, as I was about to go on vacation, so I decided to take a shot at these.After plugging them in and using them, I was blown away by the quality. I have bought several pairs of Skullcandy for a much higher price in the past, and the build and sound quality of these is far superior. I had no issues with the comfort of these headphones, or any issues with them falling out. Also included with these headphones are extra rubber ear pieces. If you are looking for headphones for a good price and sound, look no further, buy these.",
+    "overall": 5.0,
+    "summary": "Cheap price, but has great sound quality",
+    "unixReviewTime": 1401408000,
+    "reviewTime": "05 30, 2014",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "AJXEHSG4MZZ0U",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Aaron Schug",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "These headphones work wonderfully. I was a little concerned because of how inexpensive they were, but they cancel noise out quite effectively, and the sound quality seems to be just as good as the $30 ear bud headphones that I had previously owened.",
+    "overall": 5.0,
+    "summary": "Great Sound and Quality at an Affordable Price!",
+    "unixReviewTime": 1385942400,
+    "reviewTime": "12 2, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A1GT4LMA1XSNBZ",
+    "asin": "B003ELYQGG",
+    "reviewerName": "abfarris",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "I bought three different sets of in-ear headphones at the same time.  These were the cheapest and have had the best sounding of the three.  I was pleasently surprised. The only drawback I saw were that the part that inserts into mp3 player or phone is L shaped and I usually prefer a straight connection. It would be nice to have a mic/volume control and non-tangling flat wire cord, but for the price these would be hard to beat IMO.",
+    "overall": 4.0,
+    "summary": "Great Value",
+    "unixReviewTime": 1375660800,
+    "reviewTime": "08 5, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A1WNQRXKQZ0EBA",
+    "asin": "B003ELYQGG",
+    "reviewerName": "A. Burr",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "I have severe hearing loss and have to wear BTE hearing aids.  Muff type ear phones don\u0027t work very well for me so thought  I would try ear buds, knowing that I would have to use them without my hearing aids.  They improve the sound considerably when used with my Kindle Fire but could still use more volume.",
+    "overall": 4.0,
+    "summary": "Work well with my Kindle Fire but would be better with more volume.",
+    "unixReviewTime": 1386633600,
+    "reviewTime": "12 10, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A2I6Q5JUOI2XQE",
+    "asin": "B003ELYQGG",
+    "reviewerName": "A buyer",
+    "helpful": [
+      0,
+      1
+    ],
+    "reviewText": "Not terrible for the price but I will agree that that the bass is lacking, basically just a high tremble.  I didn\u0027t realize it but I had a pair of these before that I found at a store a year or so ago.  They still work so I can\u0027t complain, other headphones I had lasted for only a few months before they stopped working.  So I will give the product some points for \"going strong.\"If your not too picky about sound quality than these are perfect for the price.  They have three different sized \"buds\" so you can choose the right size for your ear.  I have to use the large size even though I have small ears to get good sound quality.  However they do bother the inside of my ears due to the way they are designed, as the plastic seems to rest on the outer walls of my ear.",
+    "overall": 4.0,
+    "summary": "Ok for the price",
+    "unixReviewTime": 1343260800,
+    "reviewTime": "07 26, 2012",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "AUTQINMN7CVM9",
+    "asin": "B003ELYQGG",
+    "reviewerName": "AC300",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "When I came on Amazon and read the reviews, I wasn\u0027t quite sure if they\u0027d be totally accurate. Such quality is rarely found for so cheap. But, when I plugged these guys in, I realized the reviewers were correct: these headphones are the real deal. They look neat, are comfortable, and have a sound quality other manufacturers charge 6 to 8 time the price for. Still hard to believe, but these affordable earphones are the best I\u0027ve used, and the price cannot be beaten!",
+    "overall": 5.0,
+    "summary": "Amazing Sound",
+    "unixReviewTime": 1357516800,
+    "reviewTime": "01 7, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A1IMRWGBXOJTWU",
+    "asin": "B003ELYQGG",
+    "reviewerName": "A. Carman",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "Since these aren\u0027t normally $5, just on sale, I thought they would be decent pair of cheap headphones. They worked.... okay.... You have to have them perfectly placed in the jack for it to work. If it gets knocked out of the position they don\u0027t work well. Not complaining because of the price, but they could be better for the regular price.",
+    "overall": 3.0,
+    "summary": "Price shows",
+    "unixReviewTime": 1355961600,
+    "reviewTime": "12 20, 2012",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A1GT521P0V6IMU",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Ace Rimmer",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "Good sounding and fitting ear buds. I have bought numerous ear/head phones over the years and these sound very good for the money. Why spend hundreds?They fit my ears and my kids ears.",
+    "overall": 4.0,
+    "summary": "good quality sound for the price",
+    "unixReviewTime": 1377561600,
+    "reviewTime": "08 27, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A1UNIHKR24SM3X",
+    "asin": "B003ELYQGG",
+    "reviewerName": "AC Palmer",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "I\u0027m not a huge earbud fan (prefer the discontinued Sony sports headphones for workouts), but these were a very pleasant surprise. Sound quality is great, they are comfortable, and stay in place while you\u0027re running or working out. Great \u0027buds!",
+    "overall": 5.0,
+    "summary": "GREAT quality inexpensive earbuds!",
+    "unixReviewTime": 1400716800,
+    "reviewTime": "05 22, 2014",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A3I8VKL1FVKY0C",
+    "asin": "B003ELYQGG",
+    "reviewerName": "A Customer",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "I ordered these earphones along with some iLuv City Lights Earphones (http://www.amazon.com/iLuv-iEP322BLK-Lights-In-Ear-Earphones/dp/B004PEIG12)These Panasonic earphones are alright, and sound ok...The iLuv City Lights earphones sounded AMAZING. They have a huge driver in them (13.5mm) to give you that unbeatable bass that is just incredible for rap and electronic music, but they still sound great for higher toned music with high female voices. If you want to spend less that $10 on a pair of amazing earphones, I\u0027d recommend the iLuv City Lights.",
+    "overall": 2.0,
+    "summary": "You can get better for under $10!",
+    "unixReviewTime": 1359936000,
+    "reviewTime": "02 4, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "ABW2NA00KS8NZ",
+    "asin": "B003ELYQGG",
+    "reviewerName": "adam",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "I have been carrying these around for a year and no problems. They stay firmly in place during running. They are comfortable to wear all day at work. They never fall out. These are the best headphones I\u0027ve ever owned. Way better then the ones that came with my ipod or android phone.",
+    "overall": 5.0,
+    "summary": "Amazing!",
+    "unixReviewTime": 1360022400,
+    "reviewTime": "02 5, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A2I6O3SYDQO39E",
+    "asin": "B003ELYQGG",
+    "reviewerName": "A. DeHart",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "They work but don\u0027t expect much.  If you need a cheap pair that you don\u0027t want to be concerned about getting stolen or lost then give them a try but they aren\u0027t going to blow you away.I\u0027m on the fence as to whether I\u0027d buy them again.  I\u0027d be more inclined to probably try my luck again with something different.",
+    "overall": 3.0,
+    "summary": "Work but not particularly high quality",
+    "unixReviewTime": 1354147200,
+    "reviewTime": "11 29, 2012",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A20DJX8YUAI102",
+    "asin": "B003ELYQGG",
+    "reviewerName": "A. DeJesus",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "These earphones are lightweight, gentle to the ears and better sounding than similarly priced earphones. I can wear them for hours on end with no problems.",
+    "overall": 5.0,
+    "summary": "Good comfortable earphones",
+    "unixReviewTime": 1356739200,
+    "reviewTime": "12 29, 2012",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A2V1XO7SDU4XQZ",
+    "asin": "B003ELYQGG",
+    "reviewerName": "adjective",
+    "helpful": [
+      0,
+      1
+    ],
+    "reviewText": "These ear buds are comfortable, have good sound quality, and are, above all, CHEAP. I can\u0027t envision buying another type now that these are on the market. A great deal.",
+    "overall": 4.0,
+    "summary": "ridiculous value for the money",
+    "unixReviewTime": 1339545600,
+    "reviewTime": "06 13, 2012",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A3RWN5RBIOE1JT",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Admin_Dude42",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "I can honestly say, You can\u0027t go wrong with these in the sub $10 category of in-earphones. Sony quit making the ones I liked and I wanted something to go with my new blue Sandisk Sansa Cip+. Yes they are cheap but the sound is amazing for what you pay for these. They do sound a bit rich in bass and have brighter treble but I\u0027m okay with that. I was able to use the default medium plugs out of the package, and are pretty good at sealing out noise. I have bought many of Panasonic\u0027s cheaper products including VCR, blu-ray player, rice cooker, and some of their on-ear headphones; they all exceed my expectations for the value. I would certainly consider another pair of these earphones. Heck, they\u0027d even make a great stocking stuffer at this price. Recipient would not be disappointed. All in all, great sound and value with the Panasonic RPHJE120A in-earphone.",
+    "overall": 5.0,
+    "summary": "I will stick with these unless something better comes along!",
+    "unixReviewTime": 1362960000,
+    "reviewTime": "03 11, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A3MVZH8ZFCK1XO",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Adnan Chowdhury",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "I tend to lose or break headphones so I got these. The sound quality is exceptional for 6 buck headphones, It is on par with 30 or 40 headphones. But it isn\u0027t perfect, it tend suffer at making high treble sound properly, such as rock music but any party like music, hip-hop or rap goes great.These are little more comfortable than other in ear headphones but make sure you right bud size otherwise it will be really uncomfortable. I use small bud size.If break these within 3 months, I don\u0027t mind stocking up a bunch of these decent headphones.",
+    "overall": 4.0,
+    "summary": "Great sound, quite comfortable",
+    "unixReviewTime": 1350345600,
+    "reviewTime": "10 16, 2012",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A2CCZN653JH338",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Adrian Castillo \"Acastillo\"",
+    "helpful": [
+      1,
+      1
+    ],
+    "reviewText": "At under $10, these earphones easily compete with $30-40 earphones; they sound great and are built well.  I purchase a set for myself and my 2 kids.  All three of us have enjoyed them.  I would recommend these without reservation.",
+    "overall": 5.0,
+    "summary": "Best bang for your buck",
+    "unixReviewTime": 1356480000,
+    "reviewTime": "12 26, 2012",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A1NBXD6CO6TEKU",
+    "asin": "B003ELYQGG",
+    "reviewerName": "A. Elger",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "I bought these headphones for one reason, value.People in my family have a habit of destroying ear buds--cheap and expensive alike. Typically they were lasting 1-4 months. I didn\u0027t want to sacrifice audio quality, but with that track record I wasn\u0027t ready to spend $30 or even $15 on a pair. With that in mind, I decided to find the best value sub $10 headphones I could find. It was between this model and another brand, which I wont name here, and I happy that I selected this one.If you want a cheap ear bud with great passive noise reduction, this is a great option. They seal they create allows for great audio range that greatly exceeds Apple\u0027s ear buds and blocks ambient noise.I bought these and designated them to be only for our iPad, which kept them out of my son\u0027s backpack and my wife\u0027s purse. They are still going, and are in great shape.The value in these is so great that I don\u0027t see any advantage in spending more money on ear buds, unless you are ready to spend over $100 for an entry level audiophile product. Even if there are some $40+ pairs out there that might be a little better (and there are many that are much worse), the quality you would gain for the $30+ is pretty insignificant until you start paying $$$ for very high signal to noise ratio--which is a measure of how \u0026#34;clean\u0026#34; the sound is.",
+    "overall": 5.0,
+    "summary": "Very satisfied with value of these headphones.",
+    "unixReviewTime": 1401148800,
+    "reviewTime": "05 27, 2014",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A2UK5HQS62ESQP",
+    "asin": "B003ELYQGG",
+    "reviewerName": "A. Ferreira \"64-year old baby boomer\"",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "OK, I have small ears that aren\u0027t a perfect match, and earphones don\u0027t usually stay in my ears well at all.These however fit really nice and are comfortable too. The sound is fine for my purposes, which is primarily listening to audio on my laptop.I bought another brand at the same time, theCreative EP-660 In-Ear Noise Isolating Headphones (White), that cost almost 6 times as much and they didn\u0027t seem any better and didn\u0027t fit my ears as well either. These panasonic keep out exterior noise pretty well, too. For the price and quality, they are a definite bargain.",
+    "overall": 5.0,
+    "summary": "Me and My Kinky Little Ears are Very happy",
+    "unixReviewTime": 1353110400,
+    "reviewTime": "11 17, 2012",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A22Z554ZQ8NFPC",
+    "asin": "B003ELYQGG",
+    "reviewerName": "AF \"Whigs\"",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "I kind of hate earbuds.  Not the concept, but the fact that it\u0027s seemingly impossible to find a set that lasts more than a few months.  At ~$6 these are a steal.  They fit well and sound great.  Not sure how long they\u0027ll last, but so far I\u0027m very happy.EDIT - update 07/08/13:  just wanted to update.  I\u0027ve used these pretty much every day for several months and they\u0027re still going.  I\u0027ve had more expensive earbuds that I\u0027ve babied die on me after 3 months of moderate use.  I wear these Panasonic buds under heavy-duty hearing protection while mowing the lawn (they actually block out more of the mower noise and I don\u0027t have to turn my mp3 player up very loud) and while shoveling snow, while exercising, etc.  My first pair of these just keeps going and going.  By far my best set of earbuds yet.",
+    "overall": 5.0,
+    "summary": "Excellent! - Surprised by quality",
+    "unixReviewTime": 1356912000,
+    "reviewTime": "12 31, 2012",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A35DYPZ2RPG881",
+    "asin": "B003ELYQGG",
+    "reviewerName": "A. Gadgeff",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "Unbelievable sound for the price; Lightweight cable which doesn\u0027t pull earphones out while running (much). If they last through the sweat, would be worth to buy a second pair!",
+    "overall": 5.0,
+    "summary": "Just right!",
+    "unixReviewTime": 1401494400,
+    "reviewTime": "05 31, 2014",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A2PUWX8G432NOT",
+    "asin": "B003ELYQGG",
+    "reviewerName": "A. Garrett",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "They also aren\u0027t as comfortable as other earbuds I have had in the past. You want something for airport/airplane to block noise, Skullcandy earbuds are the way to go. I don\u0027t know why I veered from that path but I won\u0027t do it again.",
+    "overall": 2.0,
+    "summary": "Do not block sound as well as they say they do.",
+    "unixReviewTime": 1341273600,
+    "reviewTime": "07 3, 2012",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A36TZIZG794Y8A",
+    "asin": "B003ELYQGG",
+    "reviewerName": "A. G.",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "For the price they really can\u0027t be beat. I bought a second pair. I use one for the Gym and one for when I DJ with turntables late night at the house and I don\u0027t feel like wearing Bulky Headphones.",
+    "overall": 5.0,
+    "summary": "Awesome Headphones",
+    "unixReviewTime": 1395792000,
+    "reviewTime": "03 26, 2014",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A2UX1QYTF609V",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Agnes O\u0027Neil",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "The sound quality is good but the rubber ear guards won\u0027t stay on. We\u0027ve lost nearly all the sizes that come with these because they come off too easily, when inserting or removing from ears.",
+    "overall": 1.0,
+    "summary": "There\u0027s a reason they\u0027re cheap",
+    "unixReviewTime": 1356739200,
+    "reviewTime": "12 29, 2012",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A2F6YT3FS5FN8C",
+    "asin": "B003ELYQGG",
+    "reviewerName": "A. Good",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "I thought these were just regular earbuds, but they are shaped uniquely and come with 3 different sizes of rubber covers. The design makes them much more comfortable and stable. It was a pleasant surprise for a cheap buy.Update: After 6 weeks of using these once about once a week, they died. I know they are super cheap, but its still very inconvenient.",
+    "overall": 3.0,
+    "summary": "Died in less than 2 mo",
+    "unixReviewTime": 1380758400,
+    "reviewTime": "10 3, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A13A943ZWQVT0Z",
+    "asin": "B003ELYQGG",
+    "reviewerName": "A. Gordon \"A. Gord.\"",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "For only having paid $11 including shipping, these things are the best value earbuds I\u0027ve ever owned.The sound quality is actually slightly better than my $100 pair of earbuds that I dropped in water; they have a more pleasant balance between bass and treble. I bought a $30 pair of Sony headphones to replace the old ones but the sound quality was tinny (cymbals always sounded much louder than everything else, too).There has to be a catch, so I\u0027m assuming that these aren\u0027t very reliable, considering the price, and guessing they might fail after a few months, but I could buy 9 pairs of them to equal the price of my more expensive pair, which probably wouldn\u0027t last as long as 9 pairs of these. Plus, if something happens again and they break due to my negligence, my wallet won\u0027t care if I buy a replacement pair.",
+    "overall": 5.0,
+    "summary": "Fantastic for the price",
+    "unixReviewTime": 1376956800,
+    "reviewTime": "08 20, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A3GTTX9GTD52AL",
+    "asin": "B003ELYQGG",
+    "reviewerName": "A. Gulley",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "A year or so ago I bought some of theCoby Jammerz High-Performance Isolation Stereo Earphones CVE52BLK (Black)because of the super cheap price, but the sound quality was sometimes noticeably bad and they stopped working randomly about a year later.  While I thought about buying another pair because of how cheap they are, I saw these Panasonic ones with great reviews and a comparable price ($2-$3 more).These are definitely worth the price.  They have a great fit and come with three different sizes of buds to fit any person\u0027s ears.  They are slightly angled from the base of the earbud, so for people who don\u0027t like that they won\u0027t like these.  Overall though, I\u0027ve experienced great sound quality and comfort with these, much moreso than the Coby Jammerz.",
+    "overall": 5.0,
+    "summary": "Great Earbuds for the Price",
+    "unixReviewTime": 1346025600,
+    "reviewTime": "08 27, 2012",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A24EMN6U865N3N",
+    "asin": "B003ELYQGG",
+    "reviewerName": "agzhl",
+    "helpful": [
+      6,
+      8
+    ],
+    "reviewText": "I have another set similar to these and I liked them so much that I wanted a second set.  I could not find the exact pair so I opted for these.  The sound quality is the same and they fit very well.  Overall, I think they\u0027re worth the price.  I did not give them five stars because they do not have a sliding piece that keeps the two cords untangled and the buds side by side when they aren\u0027t in use.  My older set of plugs do and they\u0027re so much easier to store when on the move.  I only use this set at home.  I use the older set that I\u0027ve had for almost three years when I\u0027m on the go so I don\u0027t have to worry about untangling them every day when I take them out of my pocket, backpack, etc.",
+    "overall": 4.0,
+    "summary": "Good quality and lasting.",
+    "unixReviewTime": 1319932800,
+    "reviewTime": "10 30, 2011",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A2F2U9PNHNI0ER",
+    "asin": "B003ELYQGG",
+    "reviewerName": "AJ",
+    "helpful": [
+      1,
+      2
+    ],
+    "reviewText": "My head hurts from listening to things with these in. Music sounds like crap, TV shows sound like crap, idk anymore. My iPod earphones sound better than these. That\u0027s embarrassing considering that the left iPod earphone is partially blown out. They do stay in your ear though.. I guess that\u0027s the only positive thing. Oh, and the wires look CHEAP. They tangle so much. Please, do not buy these. I feel so stupid for being these, I don\u0027t want anybody else to do the same.",
+    "overall": 1.0,
+    "summary": "Terrible sound quality",
+    "unixReviewTime": 1331942400,
+    "reviewTime": "03 17, 2012",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A39633CU9DC0PY",
+    "asin": "B003ELYQGG",
+    "reviewerName": "A. J. Minhas \"althotos\"",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "I\u0027m a bit of a headphone/earphone snob. I\u0027ve owned very nice Sennheisers, AKGs and other brand names in the past and present. I own an awesome set of Sony, full-size headphones, which can produce super low bass sound. I\u0027ve got several pair of JVC, half-size headphones that are great for reproducing a full range of sound and don\u0027t look awkward or stupid when you\u0027re sitting on the park bench or local bar, listening to your favorite jams from your Smartphone. I also have a pair of awesome, Philips earbud phones of which one set I keep in my motorcycle for listening to NPR or music while riding  case and another in my backpack for general travel use.I wanted to get an inexpensive pair for me and my wife when we are riding our bicycles or walking the neighborhood for exercise. If they were to get lost or damaged, I wouldn\u0027t be heart-broken. These produce a pretty good range of sound. They definitely don\u0027t have the low-end bass of my Philips earbuds or JVC half-phones, but then they are less than 1/3 the cost of those phones. They can\u0027t capture the full range and deep bass of my full-size Sony headphone, but these are less than 1/5 the cost of those. So, for the money, they are a pretty decent value for fairly decent sound. Buy them by the buckets if you have teens, tweens or pre-teens that are always losing their earbud phones.",
+    "overall": 4.0,
+    "summary": "Amazing Value and Decent Sound",
+    "unixReviewTime": 1347926400,
+    "reviewTime": "09 18, 2012",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A12B203CDL7ZOA",
+    "asin": "B003ELYQGG",
+    "reviewerName": "AJSmith",
+    "helpful": [
+      0,
+      1
+    ],
+    "reviewText": "I got these because I needed something inexpensive that wouldn\u0027t fall out of my ear when I walked/ran.Pros-fits in ear nicely-doesn\u0027t fall out with normal movements-fair price-works well with my iPod/iPhone-does a nice job of weeding out background noiseCons-these are not ear phones that will last for a long time so for the price you will have to re-purchase after a while.",
+    "overall": 4.0,
+    "summary": "Good product for the price",
+    "unixReviewTime": 1343779200,
+    "reviewTime": "08 1, 2012",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A15M87NSH1OR7G",
+    "asin": "B003ELYQGG",
+    "reviewerName": "A. Khalil",
+    "helpful": [
+      1,
+      1
+    ],
+    "reviewText": "These headphones have awesome noise cancelling, great volume and decent bass. Also the ergo fit design really works, the headphones haven\u0027t fallen out of my ears once which is awesome. For $5.76 you cant beat this quality. HIGHLY recommended!",
+    "overall": 5.0,
+    "summary": "Great headphones, cheap price",
+    "unixReviewTime": 1335225600,
+    "reviewTime": "04 24, 2012",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A3FCBZSKZ0UNEY",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Alan",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "I am an audiophile, but an audiophile who likes to work out and who is very prone to losing cheap headphones. These are exceptional for the amount of money that I paid for them, the bass is slightly boomy or overbearing and is controlled.  The bass has the middle bass hump that you would expect from headphones this inexpensive, but all in all bass is above average in quality for this price range. The midrange is not recessed although it is slightly harsh as midrange is usually the most difficult spectrum for any headphone of any price to reproduce, and these do an admirable job. The highs are decent, but definitely not exceptional and also not harsh at all, which is good. Cons include: an extraordinarily low quality cable, L-jack, and strange nozzle design.",
+    "overall": 4.0,
+    "summary": "THESE WERE $6?????",
+    "unixReviewTime": 1337126400,
+    "reviewTime": "05 16, 2012",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A1299TBR6HPSS9",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Alanwagen \"alanwagen\"",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "Being that earbuds take a lot of abuse and seem to wear out fast, I am always looking for cheapies.  The good news is that these earbuds sound better than skull candy, have a better fit and are downright cheap.  I bought 5.  These are more ergonomic in the ear and and have excellent sound. So as Mr T would say:  I pity the fool that pays more for less.",
+    "overall": 5.0,
+    "summary": "I pity the fool !",
+    "unixReviewTime": 1362182400,
+    "reviewTime": "03 2, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A1CTP5IQTNSHU4",
+    "asin": "B003ELYQGG",
+    "reviewerName": "ALAN WILLIAMS",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "I bought some of these for gifts so my kids would stop borrowing my $30 ones, and they like them. 2 of my kids are pickyabout earbuds, but they are using these with no complaints. as I said-Great for the price- not  bad for the sound.",
+    "overall": 5.0,
+    "summary": "Great for the price- not  bad for the sound",
+    "unixReviewTime": 1361145600,
+    "reviewTime": "02 18, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A3VYPS07YQR9KN",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Al Capone",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "Stellar ear phones for the money.  I tried these after my favorite V-Moda Bass Freq headphones continued to escalate in price.  These don\u0027t isolate noise quite as well at the V-Moda\u0027s, but for less than I spend at Starbucks each morning, they do a great job.  Similar sound to more expensive V-Moda\u0027s too....",
+    "overall": 5.0,
+    "summary": "Great Value",
+    "unixReviewTime": 1385769600,
+    "reviewTime": "11 30, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "AHEMWNXE3HQ7O",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Aldred",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "They\u0027re cheap, high-qualtiy, and they\u0027re incredibly comfortable.  These are just about the same quality as Beats earphones, and a cheaper price, how can one go wrong?  They seem quite durable, and the sound quality on it is phenomenal.  Vocals are crisp, and the bass is really balanced, highly recommended.",
+    "overall": 5.0,
+    "summary": "Fantastic Earphones",
+    "unixReviewTime": 1341619200,
+    "reviewTime": "07 7, 2012",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "AX9DNX8UDPOUF",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Alex \"Alex\"",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "Hello, These are the Best ear-buds you can buy under $45. Trust me these sound Better than the Klipsch S3 ear-buds, and better than the more expensive Panasonic RPHJE355A High Fidelity Ergo-Fit ear-buds, and better than most Sony ear-buds.These Panasonic ear-buds have good bass, treble, balance and play loud. At only $7ea. you can not go wrong in buying a set of these ear-buds. They sound great for only $7",
+    "overall": 5.0,
+    "summary": "Bests Ear-Buds under $45",
+    "unixReviewTime": 1380758400,
+    "reviewTime": "10 3, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A3JKJ00EYF06D",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Alexander J. Marowsky \"Amarowsky\"",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "Haven\u0027t bought headphones in probably 8 years . These are amazing to me , the sound is fantastic! Excellent bass , perfect crisp sound, decent length on the cord about 3-4 feet . Only paid just over 7 bux including shipping ! Amazing deal and very happy !",
+    "overall": 5.0,
+    "summary": "excellent, worth way more !",
+    "unixReviewTime": 1337990400,
+    "reviewTime": "05 26, 2012",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A3OSYLMU0H5O2H",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Alex Bixel",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "I\u0027m not a headphone fanatic so I can\u0027t really judge if these provide the best quality of sound, but they certainly meet my expectations and the price + Prime shipping seals the deal. One thing I will note is how well they fit your ear - they employ a curved design to fit well inside your ear and I\u0027ve never had issues with them falling out like other earbuds. My only other complaint is that they don\u0027t have a clamp/\"zipper\" to bind the two separate cords when not in usage, and as a result they get somewhat tangled every time I put them away.But I really haven\u0027t found any better for the price, if you\u0027re willing to spend double digits then you might find some with better bass but other than that I thoroughly recommend them.",
+    "overall": 5.0,
+    "summary": "Fantastic for the price",
+    "unixReviewTime": 1375660800,
+    "reviewTime": "08 5, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A3RE92TU1FLGJ0",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Alexei Frolikov",
+    "helpful": [
+      0,
+      1
+    ],
+    "reviewText": "I tried these in comparison with new iPhone 5 earphones; my older $20 Sennheiser earphones and I conclude that the sounds of these is a C-. No bass whatsover, highs sound to high as well.Not a quality product by any means. Cabling is very cheap and dangly. I don\u0027t think these will last very long under heavy use. Ohh well, $5..",
+    "overall": 2.0,
+    "summary": "These are cheap and sound terrible. Don\u0027t know why Cnet gave such good review",
+    "unixReviewTime": 1377734400,
+    "reviewTime": "08 29, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A3JY5HHB6HM0PB",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Alex",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "Meets expectations, very good, and there IS bass. Not sure if very durable because im scared to test but i really like these earbuds and i do reccomend them. I love the quality BTW.",
+    "overall": 5.0,
+    "summary": "Amazing",
+    "unixReviewTime": 1355788800,
+    "reviewTime": "12 18, 2012",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A37HLZQYZON68E",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Alex",
+    "helpful": [
+      1,
+      1
+    ],
+    "reviewText": "The design is pretty simple. They reduce outside noise pretty well and fit pretty comfortably too. The color is okay but I\u0027m wondering if I should have just gotten black because the pink cords are quite conspicuous.",
+    "overall": 5.0,
+    "summary": "They are pretty comfortable",
+    "unixReviewTime": 1382745600,
+    "reviewTime": "10 26, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A2TJPLT2K3U49E",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Alex in Florida",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "These were bought because of the high ratings here, but I\u0027m not as impressed as some people were.  The sound is reasonable, not the best I\u0027ve heard from cheap earbuds, but I\u0027m most unhappy with them insofar as the amount of external sound they let in; perhaps they just don\u0027t fit my ear well, but--well, I guess they don\u0027t.  I\u0027ve bought cheap JVC earbuds that I liked a lot more than these.I won\u0027t buy these again when the die or get lost.UPDATE Mar 2, 2014:  I\u0027ve had more time to use these earbuds and have modified my opinion of them.  The sound from them seems, to me, to be essentially flat, with no real emphasis on any part of the audio spectrum, which is desirable (for quality sound), or perhaps with a slight boost at the extremes, the bass and treble (perhaps a de-emphasis of the mid range).  The bass is not muddy, the mid\u0027s not overpowering (as mid\u0027s tend to be in cheap, crummy, earbuds), and the highs are also clean and detailed (keep in mind this is compared to other earbuds I\u0027ve used, *not* high-end speaker systems and headphones!)  But these fine tonal qualities only present themselves in a quite place.As such, my original complaint stands, insofar as too much outside sound allowed in.  Someone had mentioned that this is due to poor-fitting, but, sorry, that\u0027s not the case.  These are great earbuds in a quite environ, but not nearly as good, or useful, in a normal-noise or loud area, i.e., an airplane or some workplaces, like mine.",
+    "overall": 3.0,
+    "summary": "Not bad, in the right environment",
+    "unixReviewTime": 1386374400,
+    "reviewTime": "12 7, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "AUSSPTB8T7KFP",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Alexis and Mama",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "This pair is good for music as it picks up bass clearly, but it\u0027s not good for watching movies or t.v. Shows on an iPad because the music or noises in the movies and t.v. shows come out louder than the voices of the movie actors. That\u0027s why I gave it 4 stars. But it is better than expected for music.",
+    "overall": 4.0,
+    "summary": "Good for music",
+    "unixReviewTime": 1391040000,
+    "reviewTime": "01 30, 2014",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A36CBTZJAKJ08J",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Alex L.",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "Great deal for in-ear headphones; I have a pair of nicer ones for when I am not running, but these do the trick wherever I\u0027m at - the gym, on the bus, or work.  One thing I really like is that they don\u0027t have as much of a problem with the wire thumping.",
+    "overall": 4.0,
+    "summary": "Great deal",
+    "unixReviewTime": 1384646400,
+    "reviewTime": "11 17, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A1O1ZTQW0JDI2V",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Alex McHardy",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "These headphones are easily the best headphones I have owned. Granted, I have never owned any high end headphones, but these beat the pants off of any other set in the $15-20 range.Pros:Super ComfortableGreat bass soundCustomizabe colorsAmazing priceStill working perfectly 1 year after purchase (Can\u0027t say that about many other inexpensive headphones)Cons:None",
+    "overall": 5.0,
+    "summary": "Best Inexpensive Headphones, Period",
+    "unixReviewTime": 1383091200,
+    "reviewTime": "10 30, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "AIKQLG23V592R",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Alex \"The world is vast\"",
+    "helpful": [
+      1,
+      1
+    ],
+    "reviewText": "I like the color and the build, I wish it has a built in mic tho. I prefer earphones with mic to control the on/off and volume since I\u0027m always on the go and mostly use my phone while walking to talk with clients.",
+    "overall": 3.0,
+    "summary": "Good sound",
+    "unixReviewTime": 1396742400,
+    "reviewTime": "04 6, 2014",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A2MUGG762M4YUQ",
+    "asin": "B003ELYQGG",
+    "reviewerName": "alexzandra_307 \"A307\"",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "Great headphones. I\u0027ve had these for 4 months and never had a problem with them. Longest pair of headphones i\u0027ve ever had. The earbuds give you great sound, without being too loud for anyone else to hear. Plus they cancel out \"outside noises\". Usually by this time, I have problems with headphones. Whether they stop working, or one ear stops working, but these are really cheap and durable. Plus comes in a nice variety of colors. I don\u0027t find them uncomfortable to use. At first glance, they could look awkward, but thats how your ear canal is actually shaped, thus the headphones never fall out.",
+    "overall": 5.0,
+    "summary": "BEST HEADPHONES I\u0027VE EVER HAD",
+    "unixReviewTime": 1362614400,
+    "reviewTime": "03 7, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A5WH0Y8YSM1IY",
+    "asin": "B003ELYQGG",
+    "reviewerName": "alfeathea",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "Item received right on time, and delivery was Quick. Came with spare earbuds, which is always a plus. Odd shaped earpieces, but they fit suprisingly well, and sound better than the price would suggest. And I Love the \"L\" shaped haedphone jack, which seems more durable than the traditional straight-ilne jack. Worth the money, Thanks.",
+    "overall": 4.0,
+    "summary": "Panasonic Blue Headphones",
+    "unixReviewTime": 1335744000,
+    "reviewTime": "04 30, 2012",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A2ZH26QW2ZPK2C",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Alfred",
+    "helpful": [
+      0,
+      1
+    ],
+    "reviewText": "Black earbuds, easy to place in the ear where they stay without falling out or causing discomfort.  Sound quality is just fine for listening to laptop music.  Several different ear-adapter-cups are supplied, but the normal one is working fine for me.  Reasonably priced and rapid delivery...looks like a winner to me!",
+    "overall": 4.0,
+    "summary": "No Problems",
+    "unixReviewTime": 1356652800,
+    "reviewTime": "12 28, 2012",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "APBCIXXFW1L2C",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Alfredo E. Juarez",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "Has great mids and hi\u0027s and the bass is good but weak. I have a pair of Nakamichi headphones and they produce a lot of bass but the treble is weak. I had to turn down the setting on the Panasonics in order for them to sound good. Once adjustments were made, the headphones sounded great. If you are not into heavy bass, these are great.",
+    "overall": 4.0,
+    "summary": "Good for the price",
+    "unixReviewTime": 1384819200,
+    "reviewTime": "11 19, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A1XCQZWMRND95A",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Alfredo",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "These earphones have to be one of the best earphones I have bought. I went through so many pairs of skullcandy like the ink and inkd 2.0, but these have really good bass for like dubstep which I like. I\u0027m not saying skullcandy is bad, trust me the inkd earphones are actually really loud, but the music clarity of these doesn\u0027t need a really loud sound. These earphones in all have good bass, a nice sound that you won\u0027t be saying you want it louder, and they also are a good fit in your ear. They won\u0027t come off if you pull on them or when your running which is nice. They are also comfortable if you have the right size buds and have them in right.",
+    "overall": 5.0,
+    "summary": "Amazing Earphones!",
+    "unixReviewTime": 1363046400,
+    "reviewTime": "03 12, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "AFLCHMM4L4MN8",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Al G",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "These are a very good set of earphones that are inexpensive.  Perfect for take everywhere everyday use with my tablet or smartphone.  They do sound quite good and the ear buds come in three sizes to fit very different ears. For the price these actually surprised me in quality and I would definitely recommend. I\u0027ve been using these for awhile now and I can totally echo the other positive reviews here.",
+    "overall": 5.0,
+    "summary": "Excellent Earphones for tablet",
+    "unixReviewTime": 1394236800,
+    "reviewTime": "03 8, 2014",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A19BRZQETT65WU",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Ali Ahsan Mizan",
+    "helpful": [
+      6,
+      7
+    ],
+    "reviewText": "This is completely worth $5. These earphones block out noise pretty well, and have very good audio quality. Also, I\u0027m someone who bikes alot, and I usually have my earphones on when I\u0027m biking. When I do that, I end up hearing the wind blowing against the earpiece which is really annoying; but these earphones are angled in such a way so that you don\u0027t hear the wind blowing: all you hear is your music.",
+    "overall": 5.0,
+    "summary": "excellent earphones",
+    "unixReviewTime": 1347753600,
+    "reviewTime": "09 16, 2012",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A1P1YPHUSPID1Q",
+    "asin": "B003ELYQGG",
+    "reviewerName": "AlienInvasion",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "The quality of sound is great. It outperforms my 20 USD marshmallows in every category. The only issue I have with them is A) they feel cheap and B) they don\u0027t have the little slider that keeps them organized while wrapped up. It couldn\u0027t cost more than half a penny for that little slider, but they neglect to put it on there. What can you expect for this price range?4/5 wouldn\u0027t buy again but would recommend to anyone on a budget who doesn\u0027t mind not having the slider.",
+    "overall": 4.0,
+    "summary": "Sound is fantastic",
+    "unixReviewTime": 1359590400,
+    "reviewTime": "01 31, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A2T71JNR3C2DY1",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Ali Etezadkhah \"Ali\"",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "At this price, you can\u0027t find a better set of earphones.  They come with different size inserts and should fit pretty much anyone and I find them pretty comfortable.  The cable jacket feels like PVC, which I prefer.  I know silicone jackets are more durable, but my Creative earbuds with silicone jackets were very tangle prone.There is a small problem with these earphone and I think it can be fixed, but I haven\u0027t had time to do it yet.  The cables enter the buds from the bottom, through a hard plastic tube.  When you move around, the cables hit the tubes and the sound travels through the earbuds.  I think I can fix this issue with some rubber cement or clear caulk.If the color is not important to you, check out all the colors.  The price varies greatly with the color.",
+    "overall": 4.0,
+    "summary": "Very good for the price, but has some issues",
+    "unixReviewTime": 1360195200,
+    "reviewTime": "02 7, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A2NRPR19KRIN1C",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Alisha Yabczanka",
+    "helpful": [
+      1,
+      1
+    ],
+    "reviewText": "I have never liked ear buds, ever!  They are always hard, uncomfortable, and adamant about falling out of your ears.But not these!  They are contoured for each ear.  I use the smallest cushions and they fit amazingly well in my ear canal.  My husband has a pair and uses the standard size cushion.The sound quality is fantastic, as well.  I am shocked at how these extremely inexpensive ear buds perform and fit better than ear buds 3 or 4 times their cost.  I would repurchase these if they ever fell apart, though they seem to be very durable.  I would also recommend to friends or family if they were looking for ear buds.  Awesome product!",
+    "overall": 5.0,
+    "summary": "Love these buds!",
+    "unixReviewTime": 1358985600,
+    "reviewTime": "01 24, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A1U43336MV3WFE",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Alison \"alisonangus\"",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "I mean they work but as soon as I pulled them out of the plastic I knew they were cheap. The cord is thin. They fit fine even with the strange shape. I guess they\u0027re comfortable, I\u0027ve had better.Here\u0027s the bad part. There\u0027s no bass....at all. They make the quality of the music worse. It sounds like you\u0027re in the nosebleeds of an arena. They say you get what you pay for but I\u0027ve paid the same price and got better. I think I\u0027m going back to the Coby\u0027s I had last time. Try again. Keep looking. You don\u0027t want them.",
+    "overall": 2.0,
+    "summary": "Not impressed",
+    "unixReviewTime": 1331078400,
+    "reviewTime": "03 7, 2012",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "AED8R9IHAMHRA",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Aliyah",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "I have read from another reviewer how these headphones blew him away and i thought ill give them a try and let me tell you these are worth every penny. Every time I loose or break headphones I will continue to purchase these.",
+    "overall": 5.0,
+    "summary": "WOW",
+    "unixReviewTime": 1390521600,
+    "reviewTime": "01 24, 2014",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A24BPBS3RLHZEU",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Alli F.",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "I\u0027m hard on earbuds. I love them. Wear them daily to listen to audiobooks as I putz around the house and go to sleep. (There\u0027s something so soothing about being read to sleep!) and these are wonderful. They fit great. They sound even better. I usually go through a pair every few months because I buy the cheapos from wal-mart or best buy and because I mostly use them for audiobooks sound quality isn\u0027t a huge deal breaker. These are the best I\u0027ve encountered and if you factor in how downright NICE the price is? Amazing. They\u0027re wonderful. I wish I\u0027d bought more than one pair at a time!Disclaimer: I\u0027m no audiophile. The difference between \"horrific\" and \"okay\" sound is noticable but the difference between \"okay\" and \"super flippin nice\" is not to my ears. So, if you are one of those people who notice such things, I\u0027m no help. But if you\u0027re an average book/music listener looking for nice sounding, cheap costing, and well fitting earbuds? These are a wonderful buy.",
+    "overall": 5.0,
+    "summary": "Love them!",
+    "unixReviewTime": 1378252800,
+    "reviewTime": "09 4, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "AJIPZNEJC1ONA",
+    "asin": "B003ELYQGG",
+    "reviewerName": "allysyn_jones",
+    "helpful": [
+      1,
+      1
+    ],
+    "reviewText": "Don\u0027t know if I got the lucky set that only wanted to work in certain positions inside the audio jack and is broken or what but mine had plenty of static in them.",
+    "overall": 1.0,
+    "summary": "Don\u0027t know if I got the lucky set that only ...",
+    "unixReviewTime": 1404864000,
+    "reviewTime": "07 9, 2014",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A1QOIHVQC5XWCJ",
+    "asin": "B003ELYQGG",
+    "reviewerName": "A. LOCOCO \"TDB, LLC.\"",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "I was looking for an inexpensive pair of earbuds to keep with my tablet. I\u0027ve owned some decent Sony \u0026 JLabs but did not something I\u0027d miss too much if they got lost/broken. These sound tinny out of the package, which by the way was a damn blister pack that cut my hand. The packing probably cost more than the product! Nontheless I turned my mp3 palyer on a moderate volume level and walked away. About 8 or so hours later I checked them and the sound was really good. I\u0027m going to keep burning them in for about another 10-15 hours and start using them. For now the only \u0026#34;con\u0026#34; is the wire is a bit on the very-thin side, with some thicker cables it would rank a 5.",
+    "overall": 4.0,
+    "summary": "Good for the money!",
+    "unixReviewTime": 1362355200,
+    "reviewTime": "03 4, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A20WOIO9VCUDAW",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Aloha \"PAB 123\"",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "For the money these plugs can\u0027t be beat. Audiophiles probably wouldn\u0027t let these pugs within  foot of their canals but if your looking for something that replicates better than average then this is the ticket. I bought 3 pairs to leave in various locations and for that purpose they are ideal.  Can you find better? No doubt. I listen to all different kinds of music as well as talk shows with my portable devices and these do just fine are comfortable and cheap. I would recommend this product for the type of use I described.",
+    "overall": 5.0,
+    "summary": "Panasonic RPHJE120R In-Ear Headphone, Red",
+    "unixReviewTime": 1382140800,
+    "reviewTime": "10 19, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "AEP1D9FV2MIET",
+    "asin": "B003ELYQGG",
+    "reviewerName": "al   rossco \"al\"",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "great  earbud  love  the  bass  love  the  sound  love  the  way  they  fit  in  my  ear  this  is  one  good  sounding  earbud  yes  I  would  buy  this  item  again.",
+    "overall": 5.0,
+    "summary": "great  bass",
+    "unixReviewTime": 1363651200,
+    "reviewTime": "03 19, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A3KMUHGAZME8VN",
+    "asin": "B003ELYQGG",
+    "reviewerName": "A. Luptak",
+    "helpful": [
+      0,
+      1
+    ],
+    "reviewText": "My Sennheiser earbuds went missing, my Apple earbuds are long gone, so I needed a new pair. Tried using an old, bulky pair of Aiwa Noise Cancelling on ear headphones and the sound wasn\u0027t as good, the active noise cancelling worked, but earbuds are nearly as effective.  I don\u0027t remember the model number of my Sennheiser, but they sounded great and I had them for a few years. They were $50 new, so they weren\u0027t inexpensive. After reading many favorable reviews here and deciding I didn\u0027t really want to spend $50 again, I bought these.I am not disappointed. They don\u0027t sound as good as the Sennheisers, they aren\u0027t nearly as crisp in detail and a bit muddy, especially on older recordings played on an iPod Touch 1G. But for under $10, they are fine and are probably much better than the no-name earbuds I was considering from a discount store. I\u0027ve always had good luck with Panasonic brand items.True audiophiles will want to look elsewhere, but if you need decent sound for a  price that won\u0027t cause you to worry about losing them or breaking them, these are for you. I found them comfortable to wear, personally, on the smallest earpiece.",
+    "overall": 4.0,
+    "summary": "Great value, good sound for the money",
+    "unixReviewTime": 1334016000,
+    "reviewTime": "04 10, 2012",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A3QVRSVMJ4TRJX",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Alvin Lim",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "I used to have a problem listening to low volume output sounds.  Especially for those not original movies.  But with this unique ergo design, it addresses that problem. It\u0027s just like putting both hands on each ear to capture all the sounds.  Likewise, if you don\u0027t like the whole sound, you can adjust the fitting in your ears.  I like it and bought my second piece right away.",
+    "overall": 4.0,
+    "summary": "Unique ergo design",
+    "unixReviewTime": 1345852800,
+    "reviewTime": "08 25, 2012",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A3PFTYY8YF8Y6J",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Alvin Nunez",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "These by far are the best headphones I have ever had. The sound quality if great, obviously not top of the line but it gets the job done well. Usually headphones only last me about a year before something goes wrong. One side goes out or the cable needs to be help a certain way for the sound to work. I have had 3 different DRE beats headphones and many other skullycandy, sony, and you name it brands that have all last less than a year.These have laster me over 2 years and the only reason I\u0027m replacing them is because i dropped them outside my house on the street. My girlfriend found them later that day and they had some damage, as if a car ran over one and the sound was a bit low on that side. Amazingly they still work but I\u0027m replacing them because I really don\u0027t expect them to last too long with that damage. I wouldn\u0027t recommend anyone run over their headphones but WOW can\u0027t believe how good the build quality is.The only thing I don\u0027t like is that it has no volume control on the wire. I would gladly pay a little more for a future model that includes this. If you go through headphones like I do then look no further. THESE ARE FOR YOU!",
+    "overall": 5.0,
+    "summary": "Amazing, worked even when ran over by a car!",
+    "unixReviewTime": 1382400000,
+    "reviewTime": "10 22, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "ASR19ML66FIU5",
+    "asin": "B003ELYQGG",
+    "reviewerName": "alwaysonlinebuyer",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "Good sound... pretty colors... the price matches the quality well... great if u just need some basic, pretty earbuds... especially good for a classroom",
+    "overall": 5.0,
+    "summary": "basic \u0026 pretty",
+    "unixReviewTime": 1393200000,
+    "reviewTime": "02 24, 2014",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "AI2BS6W85FKMF",
+    "asin": "B003ELYQGG",
+    "reviewerName": "A. Magoon",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "I realize they probably sound good for the money, but Apple EarPods blow them away, as do the previous generation iPhone headphones. You can do much better. Search the web for a multi-IEM review. (IEM stands for \u0027In Ear Monitors\u0027)",
+    "overall": 2.0,
+    "summary": "These don\u0027t sound very good",
+    "unixReviewTime": 1391385600,
+    "reviewTime": "02 3, 2014",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A14MCAGSOXXVTE",
+    "asin": "B003ELYQGG",
+    "reviewerName": "A. Martin",
+    "helpful": [
+      2,
+      2
+    ],
+    "reviewText": "I wasn\u0027t expecting much from this inexpensive ear bud but I didn\u0027t expect it to sound as bad as it did. There was absolutely no bass and treble wasn\u0027t much better. it sounded like an old AM radio with bad speakers. Yuck.",
+    "overall": 1.0,
+    "summary": "Yes it\u0027s cheap but",
+    "unixReviewTime": 1402876800,
+    "reviewTime": "06 16, 2014",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "AITU3Y0ZFAIN2",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Amazon Customer \"David P McIntosh, Sr.\"",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "I got these for my grandson to listen to his iPod and he says he likes them better than the Apple original. Well packaged and shipped in a timely fashion.",
+    "overall": 5.0,
+    "summary": "Panasonic RPHJE12K In-Ear Headphone, Black",
+    "unixReviewTime": 1394236800,
+    "reviewTime": "03 8, 2014",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A1MEOW38PUV9I6",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Amazon Customer \"djuan\"",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "I bought 3 pair. My husband was always complaining about my having earphones in \u0026 listening to a book. I wouldn\u0027t hear him when he talked to me without my attention.Also he didn\u0027t understand about my listening to a book for an hour before sleep. So I gave him a pair to use with my Kindle \u0026 he is stuck! Listening for an hour before sleep every night! They\u0027re comfortable (you have to make sure you are putting them in right) \u0026 I was pleased that each pair came with a choice of 3 size cushions. I use Med \u0026 he uses the Large.My sister does not like them because they cancel out most of outside noise. That is one reason I like them so well.The earphones that came with my iPod (she loves those) hurt my ears \u0026 fell out a lot. NO problems with these!",
+    "overall": 5.0,
+    "summary": "for the price they are an exceptionally good bargain",
+    "unixReviewTime": 1348963200,
+    "reviewTime": "09 30, 2012",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A18O51Y1XF75JM",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Amazon Customer \"DozerCSX\"",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "Very nice, balanced sound from these - no boomy base, no high end sparkle, just inoffensive, nice, reproduction up and down the spectrum. Angled insertion works very well. For the money (like $6), a fantastic purchase, and a great starter bud to introduce folks to \u0026#34;sound without spikes\u0026#34;, i.e., no artificial bass bump nor exaggerated highs.  These allow enjoyable listening for long periods without fatigue, in itself a wonderful attribute.Recommended.",
+    "overall": 4.0,
+    "summary": "Very nice, balanced IEMs - great value",
+    "unixReviewTime": 1375315200,
+    "reviewTime": "08 1, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A2VJC2NUFP4X9I",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Amazon Customer",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "comfortable to wear and they do not hurt your ears. light and love how I can wear them for a long time while working out or just somewhere quiet and you want to watch movies on the phone or tablet.",
+    "overall": 5.0,
+    "summary": "comfortability",
+    "unixReviewTime": 1374364800,
+    "reviewTime": "07 21, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "AM67VZ3Z4HUTR",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Amazon Customer",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "Fantastic sound at a great price.  Our son is extremely hard on earphones. These sound great, they have several different sizes of earpieces to fit small to large ears. I use them as well.  Plan on buying several more. Just great.",
+    "overall": 5.0,
+    "summary": "Panasonic RPHJE120S In-Ear Headphones",
+    "unixReviewTime": 1380672000,
+    "reviewTime": "10 2, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A1LHZ500F6LWBJ",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Amazon Customer",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "First I need to say I didn\u0027t give it 5 stars for the wrong reasons. I really like Apple\u0027s cord on their headphones and I\u0027d have given these 5 if they had the same type. But I cannot knock them at all considering the price. Really good sound but seem quieter than some of the other different headphones I have. If you want a basic set of ear buds without any controls on them you can\u0027t go wrong with these. I have more expensive ear buds I use normally but I got these for an upcoming trip. I didn\u0027t want to take my $$$ ones with me. I\u0027ll edit this review if it turns out I don\u0027t like them for some reason. But they really do sound great. The plug fits into my iPhone w/ the Amazon TPU case no problem. It also fits into my Nexus 7 w/ Seidio Active case.",
+    "overall": 4.0,
+    "summary": "Wow for the price",
+    "unixReviewTime": 1357689600,
+    "reviewTime": "01 9, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A50T41BDM3XWX",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Amazon Customer",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "For the price these are awesome, I have multiple pairs in different bags so always have some handy for the gym, sound quality is great and has different in ear inserts to help with fit.",
+    "overall": 5.0,
+    "summary": "love these for the price",
+    "unixReviewTime": 1363996800,
+    "reviewTime": "03 23, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "APKFIZH7HLZ6X",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Amazon Customer",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "I can\u0027t recommend these at all. There is absolutely no bass at all. There\u0027s no \u0026#34;fullness\u0026#34; to the sound. It\u0027s all treble.I orignally wanted Auvio earbuds to replace the pair I\u0027ve been using for several years. But, there were no Auvio earbuds available via Amazon Prime and I needed a new pair right away. My old pair finally gave up the ghost.I\u0027m ordering a pair of Auvio and will use the Panasonic only in an emergency.",
+    "overall": 1.0,
+    "summary": "Flat. Tinny. No Bass",
+    "unixReviewTime": 1380672000,
+    "reviewTime": "10 2, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A3548XJ4BVMPWT",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Amazon Customer",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "I don\u0027t really like the shape of these headphones, not comfortable to wear to bed - but they are good if you don\u0027t want to sleep in them.  They stay in your ears and sound fine.",
+    "overall": 4.0,
+    "summary": "good for the price",
+    "unixReviewTime": 1379894400,
+    "reviewTime": "09 23, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "AV178ZN8DWXTP",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Amazon Customer",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "I loved the feel of these in my ear and they sounded great, but in less than a year of daily use, they fraeyed and one of them almost broke off, the sound quite before that happened.",
+    "overall": 2.0,
+    "summary": "They sounded great but didn\u0027t last",
+    "unixReviewTime": 1395705600,
+    "reviewTime": "03 25, 2014",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A10FYJ0D5Q623M",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Amazon Customer",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "I never buy super expensive ear buds since I just listen for enjoyment and don\u0027t worry about the appropriate levels of bass, etc. Also, I am frequently losing headphones or lending them out so I don\u0027t want to spend a lot of money on them. These work well for the price.",
+    "overall": 4.0,
+    "summary": "Good for the price",
+    "unixReviewTime": 1379376000,
+    "reviewTime": "09 17, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A1YZY4LQXZ159T",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Amazon Customer",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "In my never ending quest to find a reasonably priced headset that has good sound, I gave these a try. The best compliment I can pay these is to say that at least it did not cost me that much money to be disappointed. Uncomfortable (of course, I find most in-ear headphones uncomfortable until I replace the cheapo silicone cushions with foam), and with poor (IMHO) sound quality. I am older, and my hearing is not what it used to be, but... I did expect that these -in-ear headphones would provide adequate amplification. They did not, and the sound they did produce was what I could only describe as tinny.",
+    "overall": 2.0,
+    "summary": "Cheap and Cheap sounding",
+    "unixReviewTime": 1394236800,
+    "reviewTime": "03 8, 2014",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A1T1S3E7PPXAP8",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Amazon Customer",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "I purchased these after a positive review by a cnet editor, who claimed they are cheap and deliver good sound. But alas...These headphones are a last resort, in-the-pinch sort. I won\u0027t give them one star since they work (i.e. deliver sound). But the sound is very tinny and distorts very easily if the music volume is at or above street-listening level (as opposed to library-listening level), as well as if your EQ is set to deliver any small amount of bass. Another thing I didn\u0027t like: when you move your head while wearing these, or if the very thin cords move against your clothing (e.g. walking or jogging), the cord rattling sound is very loudly transferred to your ears; so much so that it was very distracting.I\u0027m not picky about style so the minimalist design of these Panasonics suits me fine. Another plus for me is that the cord splits and two equal lengths lead to each ear piece, as opposed to a short cord for one side and a longer cord for the other side after the split. But these are very minor pluses. This Panasonic line offers great selection in colors and unbeatable prices. The set comes with three sizes of comfortable ear fittings.Despite the few redemptive qualities, these headphones lack what I consider the most important attribute of any headphones; good sound quality.",
+    "overall": 2.0,
+    "summary": "Cheap--you get what you pay for.",
+    "unixReviewTime": 1376784000,
+    "reviewTime": "08 18, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A1KB8S0NNIS38",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Amazon Customer",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "I think my opinion on these headphones are about a mixture of the Most Helpful Favorable and Critical Review. On one side of the fence these things are pretty darn good for a pair that costs \u0026#60;$10 and as somebody who isn\u0027t an audiophile I am very happy with the quality that I get from a pair of in-ear headphones that I won\u0027t have to protect like a price Jewel. The bass in these things will leave you shocked by how great they sound in your ear. Now with that being said, I have a pair of $30 Over the Ear Seinheisers that blow these out of the water so the point should be made that if you trying to get quality with a strict budget, you may want to look elsewhere and spend just a bit more money.",
+    "overall": 5.0,
+    "summary": "Pretty Darn good for the price",
+    "unixReviewTime": 1403654400,
+    "reviewTime": "06 25, 2014",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A308JP3BK4VAL7",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Amazon Customer",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "I\u0027ve bought several pairs of earbuds hoping to find great bass in an inexpensive earbud, but I\u0027ve been disappointed every time. These earbuds are no exception. They certainly have good, accurate treble, and *maybe* at a volume high enough to damage your ears they would have good bass (I wouldn\u0027t know), but they don\u0027t meet my requirement for a good workout earbud with a strong (but accurate) bass. I own the Thinksound ts01 and the V-MODA Vibe and both of these buds have a much superior bass even at a moderate volume. I paid a lot more for them than the current price here on Amazon (as of today) too.",
+    "overall": 2.0,
+    "summary": "Inadequate bass - get Thinksound ts01 or V-MODA Vibe instead",
+    "unixReviewTime": 1347580800,
+    "reviewTime": "09 14, 2012",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A3CGUEN87G09A3",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Amazon Customer",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "Remember there are no iPod controls or anything, but if you need some headphones that sound pretty good and seal up in your ear with one of the 3 sizes of rubber that come with...these are what you want.  I use them while riding my motorcycle.",
+    "overall": 5.0,
+    "summary": "Great for the price!",
+    "unixReviewTime": 1399334400,
+    "reviewTime": "05 6, 2014",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "AJMJUQLU374EN",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Amazon Customer",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "Shipped  as advertised and in original packaging. These sound as good as a set we have costing much more and the fit is excellent. Construction for the cost involved is very good and what we had expected. We have ordered another pair and would very highly recommend these for the price!",
+    "overall": 5.0,
+    "summary": "Great value",
+    "unixReviewTime": 1347062400,
+    "reviewTime": "09 8, 2012",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A126T1VRTWKNBH",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Amazon Customer",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "Sound good and fit comfortably. I bought these to replace a high end pair and I wish I could have kept the Silicon wires as these will always keep the kinks and look cheap and messy. 5  stars for sound and minus 1 for cheap cord.",
+    "overall": 4.0,
+    "summary": "The reviews are right",
+    "unixReviewTime": 1389225600,
+    "reviewTime": "01 9, 2014",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "ATGR61P08PW68",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Amazon Customer",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "the headphones are a little boomy with little depth. Bought these for my wife to use on an airplane for the noise isolation. The noise isolation means nothing to airplane noise and this set required my ipad sound to be turned way up to hear anything.The oddly shaped ear plug is nice, however, and fits so much better than your traditional plug.",
+    "overall": 4.0,
+    "summary": "great value for the price",
+    "unixReviewTime": 1361404800,
+    "reviewTime": "02 21, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A3O0P7XGZO3COI",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Amazon Customer",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "These are great earbuds with a decent sound for the price.  Definitely has good bass and clear treble for the most part.  Obviously not the crystal clear audio from some boss or klipsch earbuds but they are great.  I use them to go to the gym and plug in to my bluetooth device, so far they work as expected.  In order to hear the bass stick those suckers deep in your ears, but not too deep, sont want to get hurt haha.",
+    "overall": 5.0,
+    "summary": "For 5 bucks?  I\u0027ll take 2!",
+    "unixReviewTime": 1388707200,
+    "reviewTime": "01 3, 2014",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A1VEELTKS8NLZB",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Amazon Customer",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "These are much better than the normal earphones included with most MP3 players and at this price point are a good set of phones to have around as a spare set.  You won\u0027t shed any tears if you break or lose these.  They provide an adequate sound for most types of music.  If you want a fantastic set of earphones, then these aren\u0027t the ones you want, but if you\u0027re looking for a pretty good pair at a very low price, then grab these.",
+    "overall": 3.0,
+    "summary": "Okay.",
+    "unixReviewTime": 1356393600,
+    "reviewTime": "12 25, 2012",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  },
+  {
+    "reviewerID": "A12W6FAQT8ZH7Y",
+    "asin": "B003ELYQGG",
+    "reviewerName": "Amazon Customer",
+    "helpful": [
+      0,
+      0
+    ],
+    "reviewText": "These earbuds twist and tangle worse than any others I have had. After about two weeks use, they still will not straighten out and will tangle themselves up as soon as you let go of them.  The sound is just so so, not much bass at all.",
+    "overall": 3.0,
+    "summary": "Tangled Mess",
+    "unixReviewTime": 1387843200,
+    "reviewTime": "12 24, 2013",
+    "words": {
+      "claims": [],
+      "premises": []
+    },
+    "relations": {
+      "relations": []
+    }
+  }
+]
