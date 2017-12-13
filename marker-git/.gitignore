@@ -1,0 +1,12 @@
+.classpath
+.project
+.settings/
+/bin/
+/input/
+/target/
+/*.json
+/*.old
+/*.rar
+/*.txt
+/*.zip
+
